@@ -1,3 +1,10 @@
+November 10th, 2019
+
+- ASB Security string 2019-11-05
+- microG flavor only: Bromite Webview on 78.0.3904.72
+- microG flavor only: microG GMS core updated to 0.2.9
+
+
 October 15th, 2019
 
 - ASB Security string 2019-10-05
