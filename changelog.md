@@ -4,6 +4,7 @@ March 07th, 2020
 - Standard flavor only: System Webview on 80.0.3987.117
 - microG flavor only: Bromite Webview on 80.0.3987.118
 - microG flavor only: AuroraStore updated to 3.2.0
+- microG flavor only: Added Netguard app (F-Droid!) to SELinux domain allowing to access /proc/net
 
 
 February 07th, 2020
