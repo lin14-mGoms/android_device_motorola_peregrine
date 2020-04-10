@@ -1,3 +1,13 @@
+April 10th, 2020
+
+- ASB Security string 2020-04-05
+- Fix for CVE-2020-8597 (external/ppp)
+- Kernel: CVE-2019-10638 siphash 128bit for IP generation
+- Standard flavor only: System Webview on 80.0.3987.132
+- microG flavor only: Bromite Webview on 81.0.4044.76
+- microG flavor only: AuroraStore updated to 3.2.4
+
+
 March 07th, 2020
 
 - ASB Security string 2020-03-05
