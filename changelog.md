@@ -1,3 +1,11 @@
+May 07th, 2020
+
+- ASB Security string 2020-05-05
+- Standard flavor only: System Webview on 81.0.4044.117
+- microG flavor only: Bromite Webview on 81.0.4044.127
+- microG flavor only: AuroraStore updated to 3.2.8
+
+
 April 10th, 2020
 
 - ASB Security string 2020-04-05
