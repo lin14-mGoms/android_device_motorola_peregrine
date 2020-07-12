@@ -1,3 +1,11 @@
+July 12th, 2020
+
+- ASB Security string 2020-07-05
+- microG flavor only: updated prebuilt microG GmsCore fom /e/ project to fix FCM registration issues
+- microG flavor only: F-Droid updated to 1.8 / F-Droid privileged extension updated to 0.2.11
+- microG flavor only: Aurorastore updated to 3.2.9 / AuroraServices updated to 1.0.6
+
+
 June 09th, 2020
 
 - ASB Security string 2020-06-05
