@@ -1,3 +1,10 @@
+August 9th, 2020
+
+- ASB Security string 2020-08-05
+- Standard flavor only: System Webview on 84.0.4147.89
+- microG flavor only: Bromite Webview on 84.0.4147.113
+
+
 July 12th, 2020
 
 - ASB Security string 2020-07-05
