@@ -1,3 +1,11 @@
+October 12th, 2020
+
+- ASB Security string 2020-10-05
+- Updated TimeService.apk
+- microG flavor only: Bromite Webview on 86.0.4240.73
+- microG flavor only: updated microG with included Exposure notification API (for Covid tracing apps)
+
+
 September 14th, 2020
 
 - ASB Security string 2020-09-05
