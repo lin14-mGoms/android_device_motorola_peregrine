@@ -1,3 +1,12 @@
+December 18th, 2020
+
+- ASB Security string 2020-12-05
+- Standard flavor only: System Webview on 86.0.4240.198
+- microG flavor only: Bromite Webview on 87.0.4280.68
+- microG flavor only: Updated microG from upstream to 0.2.14.204215-15 (picked until 720b089)
+- microG flavor only: F-Droid updated to 1.10-alpha1-114
+
+
 November 08th, 2020
 
 - ASB Security string 2020-11-05
