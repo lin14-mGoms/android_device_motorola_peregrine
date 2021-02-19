@@ -1,3 +1,11 @@
+February 07th, 2021
+
+- ASB Security string 2021-02-05
+- microG flavor only: Bromite Webview on 88.0.4324.141
+- microG flavor only: Updated microG from upstream to 0.2.17.204714-5
+- microG flavor only: F-Droid updated to 1.10-alpha-234
+
+
 January 17th, 2021
 
 - ASB Security string 2021-01-05
