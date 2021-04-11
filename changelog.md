@@ -1,3 +1,12 @@
+April 11th, 2021
+
+- Security string 2021-04-05
+- Standard flavor only: System Webview on 89.0.4389.105
+- microG flavor only: Bromite System Webview on 90.0.4430.59
+- microG flavor only: F-Droid updated to 1.12
+- microG flavor only: AuroraStore updated to 4.0.4 with AuroraService 1.1.0
+
+
 March 08th, 2021
 
 - Security string 2021-03-05
