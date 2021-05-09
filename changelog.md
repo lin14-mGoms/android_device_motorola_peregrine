@@ -1,3 +1,12 @@
+May 09th, 2021
+
+- Security string 2021-05-05
+- Standard flavor only: System Webview on 90.0.4430.82
+- microG flavor only: Bromite System Webview on 90.0.4430.204
+- microG flavor only: microG upstreamed (no version upgrade)
+- microG flavor only: AuroraServices updated 1.1.1
+
+
 April 11th, 2021
 
 - Security string 2021-04-05
