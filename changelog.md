@@ -1,3 +1,11 @@
+June 16th, 2021
+
+- Security string 2021-06-05
+- Standard flavor only: System Webview updated to 91.0.4472.101
+- microG flavor only: Bromite System Webview updated to 91.0.4472.102
+- microG flavor only: microG upstreamed to 0.2.19211515-9
+
+
 May 09th, 2021
 
 - Security string 2021-05-05
