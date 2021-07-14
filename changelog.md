@@ -1,3 +1,11 @@
+July 14th, 2021
+
+- Security string 2021-07-05
+- Kernel: Many sec. patches applied (taken from Divest-OS)
+- microG flavor only: Bromite System Webview updated to 91.0.4472.146
+- microG flavor only: microG upstreamed to 0.2.21.212158-2
+- microG flavor only: AuroraStore 4.0.7
+
 June 16th, 2021
 
 - Security string 2021-06-05
