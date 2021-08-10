@@ -1,3 +1,11 @@
+August 10th, 2021
+
+- Security string 2021-08-05
+- Standard flavor only: System Webview updated to 91.0.4472.164
+- microG flavor only: Bromite System Webview updated to 92.0.4515.134
+- microG flavor only: F-Droid 1.13
+
+
 July 14th, 2021
 
 - Security string 2021-07-05
