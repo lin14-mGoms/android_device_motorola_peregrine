@@ -1,3 +1,10 @@
+September 17th, 2021
+
+- Security string 2021-09-02
+- Standard flavor only: System Webview updated to 92.0.4515.159
+- microG flavor only: microG upstreamed to 0.2.22.212658-2
+
+
 August 10th, 2021
 
 - Security string 2021-08-05
