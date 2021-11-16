@@ -1,3 +1,11 @@
+November 9th, 2021
+
+- Show again "official" Sec. string same as LineageOS (2021-06-05)
+- Additional Custom build release property to indicate backport status
+- Standard flavor only: System Webview updated to 95.0.4638.50
+- microG flavor only: Bromite Webview 94.0.4606.109
+
+
 September 17th, 2021
 
 - Security string 2021-09-02
