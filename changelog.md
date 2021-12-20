@@ -1,3 +1,10 @@
+December 19th, 2021
+
+- Standard flavor only: System Webview updated to 96.0.4664.104
+- microG flavor only: Bromite Webview 96.0.4664.54
+- microG flavor only: microG upstreamed to 0.22.214516-21
+
+
 November 9th, 2021
 
 - Show again "official" Sec. string same as LineageOS (2021-06-05)
