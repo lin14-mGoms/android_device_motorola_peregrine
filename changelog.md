@@ -1,3 +1,12 @@
+February 19th, 2022
+
+- February 2022 custom build release
+- Standard flavor only: System Webview updated to 98.0.4758.101
+- microG flavor only: F-Droid updated to 1.14, F-Droid privileged extension to 0.2.13
+- microG flavor only: Bromite Webview updated to 97.0.4692.106
+- microG flavor only: microG updated to 0.2.24.214816-2
+
+
 December 19th, 2021
 
 - Standard flavor only: System Webview updated to 96.0.4664.104
