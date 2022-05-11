@@ -1,3 +1,13 @@
+May 11th, 2022
+
+- May 2022 custom build release
+- Standard flavor only: System Webview updated to 100.0.4896.127
+- microG flavor only: Bromite Webview updated to 101.0.4951.53
+- microG flavor only: F-Droid 1.15
+- microG flavor only: Mozilla Location provider 1.5.0
+- microG flavor only: microG 0.2.24.214816-10
+
+
 April 16th, 2022
 
 - April 2022 custom build release
