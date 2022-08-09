@@ -1,3 +1,10 @@
+August 9th, 2022
+
+- August 2022 custom build release
+- Standard flavor only: System Webview 103.0.5060.71
+- microG flavor only: Bromite Webview updated to 103.0.5060.140
+
+
 July 16th, 2022
 
 - July 2022 custom build release
