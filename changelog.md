@@ -1,3 +1,12 @@
+October 17th, 2022
+
+- October 2022 Custom build release
+- Kernel: Some WiFi patches
+- Standard flavor only: System Webview 106.0.5249.79
+- microG flavor only: Bromite Webview updated to 105.0.5195.147
+- microG flavor only: microG 0.2.24.223616-61
+
+
 September 11th, 2022
 
 - September 2022 Custom build release
