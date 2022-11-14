@@ -1,3 +1,13 @@
+November 14th, 2022
+
+- October 2022 Custom build release
+- Timezone DB 2022 updates
+- Standard flavor only: System Webview 107.0.5304.105 
+- microG flavor only: Bromite Webview updated to 106.0.5249.163
+- microG flavor only: microG 0.2.25.223616-10
+- microG flavor only: F-Droid 1.15.3
+
+
 October 17th, 2022
 
 - October 2022 Custom build release
