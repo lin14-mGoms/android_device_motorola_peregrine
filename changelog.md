@@ -1,6 +1,14 @@
+December 14th, 2022
+
+- December 2022 Custom build release
+- Standard flavor only: System Webview 108.0.5359.79
+- microG flavor only: Bromite Webview updated to 108.0.5359.106
+- microG flavor only: 0.2.26.223616-2
+
+
 November 14th, 2022
 
-- October 2022 Custom build release
+- November 2022 Custom build release
 - Timezone DB 2022 updates
 - Standard flavor only: System Webview 107.0.5304.105 
 - microG flavor only: Bromite Webview updated to 106.0.5249.163
