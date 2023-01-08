@@ -1,3 +1,10 @@
+January 8th, 2023
+
+- January 2023 Custom build release
+- Standard flavor only: System Webview 108.0.5359.128
+- microG flavor only: 0.2.26.223616-16
+
+
 December 14th, 2022
 
 - December 2022 Custom build release
