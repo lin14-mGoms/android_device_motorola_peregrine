@@ -1,3 +1,10 @@
+May 2023
+
+-  Custom build release 2023-05-01
+-  Standard flavor only: System Webview 113.0.5672.77
+-  microG flavor only: Mulch Webview 113.0.5672.77
+
+
 April 2023
 
 - April 2023 Custom build release
