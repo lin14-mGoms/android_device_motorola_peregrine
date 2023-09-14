@@ -1,3 +1,14 @@
+September 2023
+
+- Custom build release 2023-09-01
+- Kernel sec. patches applied
+- Version upstream for boringssl and freetype
+- Latest sec. fixes for aac component 
+- Standard flavor only: System Webview 116.0.5845.163
+- microG flavor only: Mulch Webview 117.0.5938.60
+- microG flavor only: AuroraStore 4.3.1
+
+
 August 2023
 
 - Custom build release 2023-08-01
