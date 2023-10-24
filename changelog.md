@@ -1,3 +1,16 @@
+October 2023
+
+- Custom build release 2023-10-01
+- Upstream of ffmpeg
+- CVE fixes in flac (CVE-2017-6888,CVE-2020-0499,CVE-2021-0561)
+- Fixes for CVE-2023-4863 and CVE-2023-5217 (webp and libvpx)
+- Standard flavor only: System Webview 117.0.5938.140
+- microG flavor only: Mulch Webview 118.0.5993.80
+- microG flavor only: AuroraStore 4.3.5
+- microG flavor only: FDroid 1.18.0
+- microG flavor only: microG 0.2.29.233013
+
+
 September 2023
 
 - Custom build release 2023-09-01
