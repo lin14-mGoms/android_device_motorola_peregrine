@@ -1,3 +1,9 @@
+December 2023
+
+- Custom build release 2023-11-01
+- microG flavor only: Mulch Webview 119.0.6045.193
+
+
 November 2023
 
 - Custom build release 2023-11-01
