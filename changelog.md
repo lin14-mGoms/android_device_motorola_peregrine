@@ -1,3 +1,9 @@
+January 2024
+
+- Custom build release 2024-01-01
+- Cromite Webview 120.0.6099.216
+
+
 December 2023
 
 - Custom build release 2023-11-01
