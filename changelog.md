@@ -1,3 +1,10 @@
+February 2024
+
+- Custom build release 2024-02-01
+- Cromite Webview 121.0.6167.164
+- microG variant only: AuroraStore 4.4.1
+
+
 January 2024
 
 - Custom build release 2024-01-01
