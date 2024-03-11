@@ -1,6 +1,7 @@
 March 2024
 
 - Custom build release 2024-03-01
+- microG flavor only: IPtables block script
 
 
 February 2024
