@@ -1,3 +1,11 @@
+June 2024
+
+- Custom build release 2024-06-01
+- Many kernel patches
+- microG flavor only: GmsCore & companion v0.3.2.240913
+- microG flavor only: AuroraStore 4.5.1
+
+
 May 2024
 
 -  Custom build release 2024-05-01
