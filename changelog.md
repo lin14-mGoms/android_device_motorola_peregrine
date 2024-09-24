@@ -1,3 +1,9 @@
+September 2024
+
+- Custom build release 2024-09-01
+- Expat: Fixes for CVE-2024-28757, CVE-2024-45490, CVE-2024-45491, CVE-2024-45492
+
+
 August 2024
 
 - Custom build release 2024-08-01
