@@ -1,3 +1,10 @@
+November 2024
+
+- Custom build release 2024-11-01
+- microG flavor only: AuroraStore 4.6.2
+- microG flavor only: F-Droid 1.20.1 (back to original APK)
+
+
 October 2024
 
 - Custom build release 2024-10-01
