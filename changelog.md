@@ -1,3 +1,9 @@
+December 2024
+
+- Custom build release 2024-12-01
+- Additional CVE patches for expat
+
+
 November 2024
 
 - Custom build release 2024-11-01
