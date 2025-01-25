@@ -1,3 +1,10 @@
+January 2025
+
+- Custom build release 2025-01-01
+- microG flavor only: AuroraStore 4.6.4
+- microG flavor only: microG & companion v0.3.6.244735
+
+
 December 2024
 
 - Custom build release 2024-12-01
